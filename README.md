@@ -79,3 +79,16 @@ Project/
 │   └── App.js
 │
 └── README.md
+
+# Clone the repository
+git clone https://github.com/your-username/project-name.git
+
+# Backend setup
+cd backend
+npm install
+npm run dev
+
+# Frontend setup
+cd ../frontend
+npm install
+npm start

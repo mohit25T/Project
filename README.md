@@ -81,7 +81,7 @@ Project/
 └── README.md
 
 # Clone the repository
-git clone https://github.com/your-username/project-name.git
+git clone 'https://github.com/mohit25T/Project.git'
 
 # Backend setup
 cd backend
